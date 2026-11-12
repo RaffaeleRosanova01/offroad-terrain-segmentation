@@ -1,0 +1,19 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.ipynb_checkpoints/
+.ruff_cache/
+
+# Data, weights and training outputs
+data/
+weights/
+outputs/
+predictions/
+*.pth
+*.pt
+
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db

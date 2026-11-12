@@ -1,0 +1,8 @@
+torch>=2.0
+torchvision>=0.15
+numpy
+opencv-python
+pillow
+matplotlib
+tqdm
+transformers>=4.40   # only for the SegFormer models
